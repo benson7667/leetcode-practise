@@ -2,7 +2,7 @@
 
 ### Constraint
 ```
-1 < num < 9999
+1 <= inputNum <= 9999
 ```
 
 ### Example
