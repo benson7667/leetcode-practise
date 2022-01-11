@@ -1,4 +1,4 @@
-## Convert an Roman to Integer
+## Convert Roman Numeral to Integer
 
 ### Constraint
 
